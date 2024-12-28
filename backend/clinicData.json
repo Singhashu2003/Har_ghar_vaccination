@@ -1,0 +1,314 @@
+[
+    {
+        "name": "Apollo Spectra",
+        "location": "Kharar",
+        "address": "Sector 10, Kharar, Punjab 140303",
+        "years": "10",
+        "services": [
+            "Child Vaccination",
+            "Adult Vaccination",
+            "Covid Vaccination"
+        ]
+    },
+    {
+        "name": "Fortis Hospital Mohali",
+        "location": "Mohali",
+        "address": "Sector 26, Mohali, Punjab 160055",
+        "years": "15",
+        "services": [
+            "Child Vaccination",
+            "Adult Vaccination",
+            "Covid Vaccination"
+        ]
+    },
+    {
+        "name": "Max Super Speciality Hospital, Chandigarh",
+        "location": "Chandigarh",
+        "address": "Sector 10, Chandigarh, Punjab 160016",
+        "years": "20",
+        "services": [
+            "Child Vaccination",
+            "Pregnancy Vaccination",
+            "Covid Vaccination"
+        ]
+    },
+    {
+        "name": "Punjab Institute of Medical Sciences",
+        "location": "Zirakpur",
+        "address": "Sector 26, Zirakpur, Punjab 160014",
+        "years": "30",
+        "services": [
+            "Adult Vaccination",
+            "Pregnancy Vaccination",
+            "Covid Vaccination"
+        ]
+    },
+    {
+        "name": "Narayana Multispeciality Hospital",
+        "location": "Kharar",
+        "address": "Sector 11, Kharar, Punjab 140303",
+        "years": "10",
+        "services": [
+            "Adult Vaccination",
+            "Pregnancy Vaccination",
+            "Covid Vaccination"
+        ]
+    },
+    {
+        "name": "Aditya Hospital",
+        "location": "Mohali",
+        "address": "Sector 34, Mohali, Punjab 160055",
+        "years": "15",
+        "services": [
+            "Child Vaccination",
+            "Adult Vaccination",
+            "Covid Vaccination"
+        ]
+    },
+    {
+        "name": "Fortis Escorts Hospital",
+        "location": "Chandigarh",
+        "address": "Sector 38, Chandigarh, Punjab 160036",
+        "years": "20",
+        "services": [
+            "Child Vaccination",
+            "Adult Vaccination"
+        ]
+    },
+    {
+        "name": "Dr. B.R. Ambedkar Institute of Medical Sciences",
+        "location": "Zirakpur",
+        "address": "Sector 26, Zirakpur, Punjab 160014",
+        "years": "30",
+        "services": [
+            "Child Vaccination",
+            "Pregnancy Vaccination",
+            "Covid Vaccination"
+        ]
+    },
+    {
+        "name": "Fortis Memorial Research Institute",
+        "location": "Kharar",
+        "address": "Sector 8, Kharar, Punjab 140303",
+        "years": "10",
+        "services": [
+            "Child Vaccination",
+            "Covid Vaccination"
+        ]
+    },
+    {
+        "name": "Indraprastha Apollo Hospital",
+        "location": "Mohali",
+        "address": "Sector 81, Mohali, Punjab 160055",
+        "years": "15",
+        "services": [
+            "Child Vaccination",
+            "Adult Vaccination",
+            "Pregnancy Vaccination"
+        ]
+    },
+    {
+        "name": "PGIMER",
+        "location": "Chandigarh",
+        "address": "Sector 10, Chandigarh, Punjab 160016",
+        "years": "20",
+        "services": [
+            "Adult Vaccination",
+            "Pregnancy Vaccination",
+            "Covid Vaccination"
+        ]
+    },
+    {
+        "name": "Dr. Shivani's Homoe & Diet Clinic",
+        "location": "Kharar",
+        "address": "Gobind Plaza Adjoining TDI Wellington Hight Chajju Majra Road",
+        "years": "10",
+        "services": [
+            "Adult Vaccination",
+            "Pregnancy Vaccination",
+            "Covid Vaccination"
+        ]
+    },
+    {
+        "name": "V Cure Homeopathic Clinic",
+        "location": "Kharar",
+        "address": "Kalgyidhar Market Kharar",
+        "years": "15",
+        "services": [
+            "Child Vaccination",
+            "Pregnancy Vaccination",
+            "Covid Vaccination"
+        ]
+    },
+    {
+        "name": "JH Skin & Health Care",
+        "location": "Mohali",
+        "address": "Sunny Enclave Mohali Sector 125",
+        "years": "5",
+        "services": [
+            "Child Vaccination",
+            "Adult Vaccination",
+            "Covid Vaccination"
+        ]
+    },
+    {
+        "name": "Ryan Clinic",
+        "location": "Kharar",
+        "address": "Civil Hospital Road Kharar",
+        "years": "6",
+        "services": [
+            "Child Vaccination",
+            "Adult Vaccination",
+            "Covid Vaccination"
+        ]
+    },
+    {
+        "name": "Sure Growth Hair Transplant",
+        "location": "Zirakpur",
+        "address": "Vip Road Zirakpur HO",
+        "years": "7",
+        "services": [
+            "Child Vaccination",
+            "Adult Vaccination",
+            "Pregnancy Vaccination"
+        ]
+    },
+    {
+        "name": "Zenet Health Care (Zenith Speech & Hearing Clinic)",
+        "location": "Zirakpur",
+        "address": "Dominos Zirakpur City",
+        "years": "14",
+        "services": [
+            "Child Vaccination",
+            "Covid Vaccination"
+        ]
+    },
+    {
+        "name": "Mind and Medicine Clinic",
+        "location": "Mullanpur",
+        "address": "Omaxe New Chandigarh Mullanpur",
+        "years": "4",
+        "services": [
+            "Child Vaccination",
+            "Pregnancy Vaccination",
+            "Covid Vaccination"
+        ]
+    },
+    {
+        "name": "Max Super Speciality Hospital",
+        "location": "Mohali",
+        "address": "Sas Nagar",
+        "years": "23",
+        "services": [
+            "Child Vaccination",
+            "Pregnancy Vaccination"
+        ]
+    },
+    {
+        "name": "Dr. Rajvinder Pal Singh ENT Clinic",
+        "location": "Mohali",
+        "address": "Zirakpur",
+        "years": "8",
+        "services": [
+            "Child Vaccination",
+            "Covid Vaccination"
+        ]
+    },
+    {
+        "name": "Dr. Sumeet Garg Clinic",
+        "location": "Kharar",
+        "address": "Sector 11, Kharar, Punjab 140303",
+        "years": "10",
+        "services": [
+            "Adult Vaccination",
+            "Pregnancy Vaccination",
+            "Covid Vaccination"
+        ]
+    },
+    {
+        "name": "Dr. Anjali's Clinic",
+        "location": "Mohali",
+        "address": "Sector 34, Mohali, Punjab 160055",
+        "years": "15",
+        "services": [
+            "Child Vaccination",
+            "Pregnancy Vaccination"
+        ]
+    },
+    {
+        "name": "Dr. Deepak's Clinic",
+        "location": "Chandigarh",
+        "address": "Sector 10, Chandigarh, Punjab 160016",
+        "years": "20",
+        "services": [
+            "Child Vaccination",
+            "Adult Vaccination",
+            "Pregnancy Vaccination",
+            "Covid Vaccination"
+        ]
+    },
+    {
+        "name": "Dr. Amit's Clinic",
+        "location": "Zirakpur",
+        "address": "Sector 26, Zirakpur, Punjab 160014",
+        "years": "30",
+        "services": [
+            "Child Vaccination",
+            "Pregnancy Vaccination",
+            "Covid Vaccination"
+        ]
+    },
+    {
+        "name": "Dr. Neha's Clinic",
+        "location": "Kharar",
+        "address": "Sector 10, Kharar, Punjab 140303",
+        "years": "10",
+        "services": [
+            "Adult Vaccination",
+            "Covid Vaccination"
+        ]
+    },
+    {
+        "name": "Dr. Priyanka's Clinic",
+        "location": "Mohali",
+        "address": "Sector 26, Mohali, Punjab 160055",
+        "years": "15",
+        "services": [
+            "Child Vaccination",
+            "Adult Vaccination"
+        ]
+    },
+    {
+        "name": "Dr. Rishabh's Clinic",
+        "location": "Chandigarh",
+        "address": "Sector 10, Chandigarh, Punjab 160016",
+        "years": "20",
+        "services": [
+            "Adult Vaccination",
+            "Pregnancy Vaccination",
+            "Covid Vaccination"
+        ]
+    },
+    {
+        "name": "Dr. Harsh's Clinic",
+        "location": "Zirakpur",
+        "address": "Sector 26, Zirakpur, Punjab 160014",
+        "years": "30",
+        "services": [
+            "Child Vaccination",
+            "Adult Vaccination",
+            "Covid Vaccination"
+        ]
+    },
+    {
+        "name": "Dr. Ayush's Clinic",
+        "location": "Kharar",
+        "address": "Sector 10, Kharar, Punjab 140303",
+        "years": "10",
+        "services": [
+            "Child Vaccination",
+            "Pregnancy Vaccination",
+            "Covid Vaccination"
+        ]
+    }
+]
